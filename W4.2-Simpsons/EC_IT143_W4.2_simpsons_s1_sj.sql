@@ -1,0 +1,1 @@
+-- Q: How many family members are in each department?
